@@ -1,0 +1,2 @@
+Have the right hand joystick allow for manual control of the motors.
+Have the left hand joystick allow for automatic functions to raise and lower the boxes.
